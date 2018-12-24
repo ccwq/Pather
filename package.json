@@ -1,7 +1,7 @@
 {
-  "name": "unit-test.js",
+  "name": "Pather.js",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/Pather.js",
   "license": "MIT",
   "scripts": {
     "test": "mocha  --require babel-register",
