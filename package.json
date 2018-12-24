@@ -1,8 +1,9 @@
 {
-  "name": "Pather.js",
+  "name": "pather-js",
   "version": "1.0.0",
   "main": "src/Pather.js",
   "license": "MIT",
+  "homepage": "https://github.com/ccwq/Pather",
   "scripts": {
     "test": "mocha  --require babel-register",
     "generate-docs": "node_modules/.bin/jsdoc -c jsdoc.json"
